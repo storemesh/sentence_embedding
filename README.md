@@ -7,4 +7,4 @@ pip install -r src/requirements.txt
 ```
 
 ## contents
-- [sentence_embedding_with_umap.ipynb](sentence_embedding_with_umap.ipynb)
+- [sentence_embedding_example.ipynb](sentence_embedding_example.ipynb)
